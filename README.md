@@ -22,22 +22,26 @@ A model-driven analysis on the impact of artificial intelligence (AI) on human e
 We frame questions in a negative-first way to ensure we consider the vulnerable while focusing on industrial questions as related to automation. 
 - // Could group into People-Centric vs Industry-Centric vs Gov-Centric vs International-Centric
 
-1. Does automation change survival for workers?
-- Business Private:
-    - Is it easy to get away with replacing labour?
-    - Is labour just replaced for the same output or do we actually increase output without replacing labour?
-- Workers Public:
-    - Do we make labour more difficult with more competition, removed jobs and lower wages, or do we make more jobs with better pay?
-    - Are the lives of the working class, poor or sick made worse, or do we benefit them?
+1. **Does automation change survival for businesses?**
+- Is business made harder for small-medium enterprises? E.g monopoly/oligopoly formation
+- Do markets turn into monopolies/oligopolies or do we ensure fairer competition and small-medium business survival?
 
-2. Does automation change survival for businesses? 
-    - make business harder? E.g monopoly/oligopoly
-    - Do markets turn into monopolies/oligopolies or do we ensure fairer competition and small-medium business survival?
+2. **Does automation change government or councils?**
+- Is more done for less budget?
+- Are social systems and welfare maintained?
+- Are the lives of homeless, sick or refugees made worse, or does it benefit them?
+- Are the homeless, sick or welfare made worse off? (e.g. by inflation)
 
-3. Does automation affect the environment?
-    - Does the environment, atmospheres and oceans suffer more damage?
+3. **Does automation change survival for workers?**
+- Are the lives of the working class made worse, or does it benefit them?
+- Do we make labour more difficult with more competition, deleted jobs and lower wages? Or do we make jobs easier, ensure employment and give decent pay?
+- Is it easy to get away with replacing labour or is there realized backlash and recourse for workers?
+- Is labour just replaced for the same output or do we actually increase output without replacing labour?
 
-4. Bad Scenario Checks
+4. **Does automation affect the environment?**
+- Does the environment, atmospheres and oceans suffer more damage?
+
+5. Bad Scenario Checks
 - Economics
     - Does labour lose out (who specifically)?
     - Does it damage social protection systems?
@@ -89,16 +93,19 @@ We employ multiple modeling approaches including agent-based models, economic mo
 ## Project Structure
 ```
 inequality_ai/
-├── docs/           # Methodology and documents
-├── instruct/       # Research Direction*
-├── reports/        # Research findings and reports
-├── policy/         # Policy recommendations
-└── [subfolder]/    # Framework analyses
-    ├── sources/        # Sournces datasets
-    ├── cleaned/        # Cleaned datasets
-    ├── exploration/    # Exploration and visualization
-    ├── models/         # AI/ML models for impact prediction
-    └── other.txt       # Documentation
+├── instruct/           # Research direction*
+├── docs/               # Documents, frameworks, methodology
+├── report/             # Finalized report
+|   └── policy/         #   Policy recommendations
+└── [framework]/        # Specific Framework
+    ├── datasets/       #   Extraction, transformation, load
+    ├── exploration/    #   Combining datasets to visualize
+    ├── models/         #   Modelling setup and tests
+    └── docs.txt        #   Any documentation
+├── .gitignore
+├── CONTRIBUTING.md
+├── README.md
+└── requirements.txt
 ```
 
 ## Getting Started
