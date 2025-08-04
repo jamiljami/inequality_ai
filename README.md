@@ -1,12 +1,17 @@
 # Understanding the impact of automation on human labour
 
-A model-driven analysis on the impact of artificial intelligence (AI) on human employment, economic inequality, and the competition between humans and automated systems for digital and physical tasks.
+A model-driven analysis on the impact of artificial intelligence (AI) on human employment, economic inequality, and interaction as a whole.
 
 ## Research Focus Areas
 
-- **Scope**: Setting out granularity and levels which should be considerd in this study e.g. all humans, a nation, a network of humans (e.g a business, organisation, family or socioeconomic group), a single human; as well as automated or hyrbid equivalents.
+- **Scope**: Constraining the complexity and granularity of our research. Developing an understanding of the levels which should be considerd in this study e.g. all humans, a nation, a network of humans (a business, organisation, family or socioeconomic group, etc), a single human; as well as automated or hyrbid equivalents. In addition to considering the complexity of analysis as explored below.
+- **Framework**: Taking a first-principles and engineering-based approach to model tasks and agents to understand competition between humans and automated systems for digital and physical tasks.
+    - Singleton Model: Agent Entity, Interaction Matrix, 
+    - Graphical Model: Agent Nodes, Hierarchical Groupings, Token-based Connections
+    - Many others
 
 - **Human Agents**: Modelling how humans can be considered agents in the real world with simplifications.
+- **AI Agents**:
 - **World Model**: Mimicking the structure of the real world for our world models with simplications.
 - **Task Frontier Catalogue**: Listing the exhaustive set of current human tasks plus future possible tasks with simplications.
 
