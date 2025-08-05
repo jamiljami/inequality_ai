@@ -1,14 +1,26 @@
 # This document adds more detail to our initial search by going narrower
-- Initial (starting level)
-- Some Granular Detail
-- Very Granular Detail
+- Initial                               (starting level 3)
+- Some Granular Detail                  (level 2)
+- [Economic_Specifics]                  [Social_Specifics] 
+- [Technological_Specifics]             [Geopolitical_Specifics]
+- [Environmental_Specifics]             [Institutional_Specifics]
+- [Psychological_Specifics]             [Infrastructure_Specifics]
+- Very Granular Detail                  (level 1)
+- [Micro_Economic_Specifics]            [Organizational_Psychology]
+- [Individual_Skill_Development]        [Regulatory_Specifics]
+- [Infrastructure_Granularity]          [Social_Network_Analysis]
+- [Temporal_Granularity]                [Geographic_Granularity]
+- [Sector_Specific_Granularity]         [Technology_Stack_Granularity]
+- [Human_AI_Interface_Granularity]      [Economic_Model_Granularity]
+
+
 
 ## Some Granular Detail Sections Missing:
 
-- [Economic_Specifics]          [Social_Specifics] 
-- [Technological_Specifics]     [Geopolitical_Specifics]
-- [Environmental_Specifics]     [Institutional_Specifics]
-- [Psychological_Specifics]     [Infrastructure_Specifics]
+- [Economic_Specifics]                  [Social_Specifics] 
+- [Technological_Specifics]             [Geopolitical_Specifics]
+- [Environmental_Specifics]             [Institutional_Specifics]
+- [Psychological_Specifics]             [Infrastructure_Specifics]
 
 1. [Economic_Specifics]
 - Gig economy evolution: How automation affects platform workers

@@ -1,7 +1,17 @@
 # This document adds more detail to our initial search by going wider
-- Initial (starting level)
-- Some Higher-Level
-- Very High-Level
+- Initial                               (starting level 3)
+- Some Higher-Level                     (level 4)
+- [Military_and_Defense_Applications]   [Agriculture_and_Food_Systems] 
+- [Energy_and_Resource_Management]      [Urban_Development_and_Smart_Cities]
+- [Legal_and_Judicial_Systems]          [Media_and_Information_Ecosystems]
+- [Healthcare_Beyond_Clinical_Care]     [Space_and_Scientific_Research]
+- Very High-Level                       (level 5)
+- [Systems_Thinking_and_Emergent_Properties]
+- [Power_Dynamics_and_Control]
+- [Existential_and_Philosophical_Dimensions] 
+- [Civilizational_Scale_Changes]
+
+
 
 ## Some Higher-Level Strategic Sections Missing:
 
