@@ -1,4 +1,4 @@
-# Simple Version:
+# Simple Starter Doc
 
 ## 1. What do other sources say?
 - research of everything below. 
@@ -10,6 +10,7 @@
 - what is on the cusp or frontier of just being automated
 
 ## 3. What are the current effects?
+- (business competition, business boosts + errors, empowered workers vs lost labour, unemployed social effects)
 
 ## 4. What is a thought experiment demonstration of an automated workplace?
 - Cashiers at a supermarket
