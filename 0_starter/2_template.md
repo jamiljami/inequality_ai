@@ -1,9 +1,9 @@
-# Template Research Paper
+# Research Paper Template
 
 ## Overview
 This document outlines the methodology for studying the impact of automation on industry, employment and economic disparity.
 
-## Literature Review [1_literature_review/]
+## Literature Review    [1_literature_review/]
 1. Context              (what others say)
 2. Current state        (what's automated now)
 3. Near future          (what's coming in 5 years)
@@ -12,34 +12,27 @@ This document outlines the methodology for studying the impact of automation on 
 
 ## Research Questions
 ### A. Primary Questions
-1. [income_inequality] How does AI automation affect income inequality across different sectors and regions?
-2. [jobs_and_skills] Which jobs are most vulnerable to automation in the next 5 years, and what skills will remain valuable?
-3. [demographics] How do different demographic groups (age, education, location) experience automation differently?
-4. [mitigation_policies] What policies and interventions are most effective at mitigating negative automation impacts?
-### B. Secondary Questions
-5. [job_quality] How does automation affect job quality and worker satisfaction, not just employment numbers?
-6. [big_tech] What role do large tech companies play in shaping automation outcomes and economic inequality?
-7. [losers] How do small businesses and gig workers adapt to automation compared to large corporations?
-8. [environmental_social] What are the environmental and social costs of automation that aren't captured in economic metrics?
-### C. Methodological_Questions
-9. [measuring_automation] How can we measure the true economic impact of automation beyond simple job displacement?
-10. [sources_and_metrics] What data sources and metrics are most reliable for tracking automation's effects on inequality?
+[Core research questions that directly address your main research problem]
+### B. Secondary Questions  
+[Supporting questions that explore related aspects, side effects, or complementary phenomena]
+### C. Methodological Questions
+[Questions about how to conduct the research - data sources, measurement approaches, research design]
 
 ## Data Sources
-- Bureau of Labor Statistics (BLS)
-- World Bank Economic Indicators
-- AI adoption surveys and reports
+- Government sources
+- National and International Institutions
+- Surveys and reports
+- Industry reports
 - Academic research papers
-- Industry reports (McKinsey, Gartner, etc.)
 
 ## Analysis Methods
-- Statistical analysis of employment trends
-- Machine learning models for prediction
-- Economic modeling and simulation
-- Policy impact evaluation
-- Geographic and demographic analysis
+- Qualitative
+- Graphical                     (Visual or Spatial or Geographic)
+- Quantitative - Statistical    (Sampling vs Descriptive vs Analysis)
+- Quantitative - Models         (Simulations vs Tests)
+- Quantitative - Analytical     (Theoretical Mathematics)
 
-## Quality Assurance - how we doing this?
+## Quality Assurance
 - Data validation and cleaning procedures
 - Model validation and testing
 - Peer review of findings

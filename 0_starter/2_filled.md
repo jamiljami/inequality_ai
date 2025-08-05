@@ -21,11 +21,11 @@ This document outlines the methodology for studying the impact of automation on 
 6. [big_tech] What role do large tech companies play in shaping automation outcomes and economic inequality?
 7. [losers] How do small businesses and gig workers adapt to automation compared to large corporations?
 8. [environmental_social] What are the environmental and social costs of automation that aren't captured in economic metrics?
-### C. Methodological_Questions
+### C. Methodological Questions
 9. [measuring_automation] How can we measure the true economic impact of automation beyond simple job displacement?
 10. [sources_and_metrics] What data sources and metrics are most reliable for tracking automation's effects on inequality?
 
-## INCOMPLETE
+## BELOW INCOMPLETE
 -----------------------------------------------------------------------------
 ## Data Sources
 - Bureau of Labor Statistics (BLS)
