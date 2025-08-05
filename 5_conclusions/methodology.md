@@ -10,7 +10,7 @@ This document outlines the methodology for studying the impact of automation on 
 4. What does the landscape look like in terms of who are the big players and businesses and tools?
 ### EXHAUST
 
-## Research Questions
+## Research Questions - (UPDATE)
 1. AI adoption -> job displacement
 
 1. How does AI adoption affect job displacement across different sectors? (labour replacement)
