@@ -1,14 +1,14 @@
-# Template Research Paper
+# Research Paper
 
 ## Overview
 This document outlines the methodology for studying the impact of automation on industry, employment and economic disparity.
 
 ## Literature Review [1_literature_review/]
-1. Context              (what others say)
-2. Current state        (what's automated now)
-3. Near future          (what's coming in 5 years)
-4. Landscape            (who the players are)
-5. Effects              (what this all means for society)
+1. What do other institutions, universities, labs and other say about the impact of AI on automation?
+2. What is currently being automated and in what mediums and domains?
+3. What is on the cusp or frontier or in the next 5 years about to be automated?
+4. What does the landscape look like in terms of who are the big players and businesses and tools?
+5. What are the effects on businesses, wealth inequality and society? We will stay at Level 3 [initial.md]. We will not consider the scope going wider in levels 4-5 [wide.md] or narrower in levels 2-3 [narrow.md].
 
 ## Research Questions
 ### A. Primary Questions
@@ -25,6 +25,8 @@ This document outlines the methodology for studying the impact of automation on 
 9. [measuring_automation] How can we measure the true economic impact of automation beyond simple job displacement?
 10. [sources_and_metrics] What data sources and metrics are most reliable for tracking automation's effects on inequality?
 
+## INCOMPLETE
+-----------------------------------------------------------------------------
 ## Data Sources
 - Bureau of Labor Statistics (BLS)
 - World Bank Economic Indicators
