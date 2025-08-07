@@ -1,7 +1,7 @@
 # Source 27
 
 # "The Future of Work in the Digital Economy" (ILO, 2020)
-- Source: International Labour Organization
+- Source: International Labour Organization (UN)
 - Focus: Global labor standards in automated workplaces
 - Key Finding: Need for new labor protections in gig economy and automated work
 

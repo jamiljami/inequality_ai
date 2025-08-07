@@ -172,38 +172,38 @@ Key Finding: Technology creates winner-take-all markets
 # ---------------- BELOW NOT YET REFACTORED ----------------
 
 # Additional Cross-Sector Analysis
-31. "AI in Financial Services: Opportunities and Challenges" (McKinsey, 2022)
+31. "AI in [Financial] Services: Opportunities and Challenges" (McKinsey, 2022)
 Source: McKinsey Global Institute
 Focus: Banking and finance automation
 Key Finding: AI could reduce financial services employment by 20-30%
 
-32. "The Future of Retail: Automation and Shopping Experience" (Deloitte, 2021)
+32. "The Future of [Retail]: Automation and Shopping Experience" (Deloitte, 2021)
 Source: Deloitte Digital
 Focus: Retail automation and employment
 Key Finding: 6.4 million retail jobs at risk from automation
 
-33. "Automation in Manufacturing" (World Economic Forum, 2019)
+33. "Automation in [Manufacturing]" (World Economic Forum, 2019)
 Source: World Economic Forum
 Focus: Manufacturing automation trends
 Key Finding: Smart factories could reduce manufacturing employment by 25%
 
-34. "AI in Education: Personalized Learning and Automation" (MIT Technology Review, 2022)
+34. "AI in Education: Personalized [Learning] and Automation" (MIT Technology Review, 2022)
 Source: MIT Technology Review
 Focus: Educational technology and teacher roles
 Key Finding: AI tutors could supplement but not replace human teachers
 
 # Additional Demographic & Social Impact
-35. "Automation and the Gender Gap in Employment" (World Bank, 2021)
+35. "Automation and the [Gender] Gap in Employment" (World Bank, 2021)
 Source: World Bank Gender Group
 Focus: Gender differences in automation risk
 Key Finding: Women face higher automation risk in developing countries
 
-36. "Age and Automation: How Older Workers Are Affected" (AARP, 2021)
+36. "Age and Automation: How [Older] Workers Are Affected" (AARP, 2021)
 Source: AARP Public Policy Institute
 Focus: Age-related automation vulnerability
 Key Finding: Workers over 50 face unique automation challenges
 
-37. "Automation and Rural Communities" (USDA, 2020)
+37. "Automation and [Rural] Communities" (USDA, 2020)
 Source: US Department of Agriculture
 Focus: Rural automation impacts
 Key Finding: Rural areas face higher automation risk due to job concentration
@@ -214,12 +214,12 @@ Source: Levy Economics Institute
 Focus: Government employment as automation response
 Key Finding: Job guarantee could provide economic stability
 
-39. "Automation and the Future of Work: What Do Workers Think?" (Pew Research Center, 2022)
+39. "Automation and the Future of Work: What Do [Workers] Think?" (Pew Research Center, 2022)
 Source: Pew Research Center
 Focus: Worker attitudes toward automation
 Key Finding: 65% of workers worry about job displacement
 
-40. "The Future of Work: Automation and Worker Well-being" (Gallup, 2021)
+40. "The Future of Work: Automation and Worker [Well-being]" (Gallup, 2021)
 Source: Gallup Organization
 Focus: Automation's impact on worker satisfaction
 Key Finding: Workers in automated environments report higher stress
@@ -230,7 +230,7 @@ Source: MIT Technology Review
 Focus: How to measure automation impact
 Key Finding: Need for new metrics beyond job displacement
 
-42. "The Automation Index: Tracking Technology Adoption" (Brookings Institution, 2022)
+42. "The Automation [Index]: Tracking Technology Adoption" (Brookings Institution, 2022)
 Source: Brookings Institution
 Focus: Automation measurement methodology
 Key Finding: Automation adoption varies significantly by industry
@@ -241,38 +241,38 @@ Focus: Productivity measurement in automated environments
 Key Finding: AI productivity gains often overstated in early adoption
 
 # Regional & International Sources
-44. "Automation and the Future of Work in Asia" (Asian Development Bank, 2021)
+44. "Automation and the Future of Work in [Asia]" (Asian Development Bank, 2021)
 Source: Asian Development Bank
 Focus: Asian automation patterns
 Key Finding: Asia faces unique automation challenges due to labor-intensive economies
 
-45. "The Future of Work in Africa" (World Bank, 2022)
+45. "The Future of Work in [Africa]" (World Bank, 2022)
 Source: World Bank Africa Region
 Focus: African automation impacts
 Key Finding: Africa could leapfrog traditional development stages
 
-46. "Automation in Latin America" (Inter-American Development Bank, 2021)
+46. "Automation in [Latin] America" (Inter-American Development Bank, 2021)
 Source: Inter-American Development Bank
 Focus: Latin American automation trends
 Key Finding: Latin America needs regional automation strategy
 
 # Technology-Specific Sources
-47. "Large Language Models and the Future of Work" (Stanford HAI, 2023)
+47. "Large [Language] Models and the Future of Work" (Stanford HAI, 2023)
 Source: Stanford Human-Centered AI Institute
 Focus: LLM impact on knowledge work
 Key Finding: LLMs could automate 10-20% of knowledge work tasks
 
-48. "Robotics and Employment: The Manufacturing Case" (MIT CSAIL, 2021)
+48. "Robotics and Employment: The [Manufacturing] Case" (MIT CSAIL, 2021)
 Source: MIT Computer Science and AI Laboratory
 Focus: Industrial robotics employment effects
 Key Finding: Collaborative robots create new job categories
 
-49. "Computer Vision and Job Automation" (UC Berkeley, 2022)
+49. "Computer [Vision] and Job Automation" (UC Berkeley, 2022)
 Source: UC Berkeley AI Research
 Focus: Visual automation impact
 Key Finding: Computer vision affects 15% of current jobs
 
-50. "The Economics of AI: Understanding the Value Chain" (Harvard Business School, 2021)
+50. "The [Economics] of AI: Understanding the Value Chain" (Harvard Business School, 2021)
 Source: Harvard Business School
 Focus: AI value creation and capture
 Key Finding: AI value concentrated among few companies

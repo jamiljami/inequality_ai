@@ -1,7 +1,7 @@
 # Source 28
 
 # "The Rise of the Robots" (Ford, 2015)
-- Source: Basic Books
+- Source: Basic Books (referenced by Financial Times)
 - Focus: Long-term automation impact on employment
 - Key Finding: Automation could lead to structural unemployment
 

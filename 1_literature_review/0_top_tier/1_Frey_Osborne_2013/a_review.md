@@ -14,5 +14,3 @@
 - Automatable (Point 2): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
 - Effects (Point 3): Focuses on employment displacement effects, finding 47% of US jobs at high risk
 - Experiments (Point 4): Uses task-based analysis methodology to evaluate automation potential across occupations
-
-
