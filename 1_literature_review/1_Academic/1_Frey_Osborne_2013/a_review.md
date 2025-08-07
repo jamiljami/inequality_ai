@@ -5,7 +5,6 @@
 - Focus: Job automation vulnerability analysis across 702 occupations
 - Key Finding: 47% of US jobs at high risk of automation
 
-
 # Research Questions Addressed:
 - [jobs_and_skills] - Directly addresses which jobs are vulnerable to automation
 - [demographics] - Implicitly touches on demographic differences through occupation analysis

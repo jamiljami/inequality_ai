@@ -101,23 +101,6 @@ Source: Journal of Economic Perspectives
 Focus: Task-based approach to understanding automation
 Key Finding: New tasks created by technology can offset automation displacement
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ---------------- BELOW NOT YET REFACTORED ----------------
-
 # Additional Industry & Think Tank Reports
 21. "The Economic Impact of Artificial Intelligence" (PwC, 2021)
 Source: PricewaterhouseCoopers
@@ -172,6 +155,21 @@ Technologies" (Brynjolfsson & McAfee, 2014)
 Source: W.W. Norton & Company
 Focus: Digital technology's impact on productivity and employment
 Key Finding: Technology creates winner-take-all markets
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ---------------- BELOW NOT YET REFACTORED ----------------
 
 # Additional Cross-Sector Analysis
 31. "AI in Financial Services: Opportunities and Challenges" (McKinsey, 2022)

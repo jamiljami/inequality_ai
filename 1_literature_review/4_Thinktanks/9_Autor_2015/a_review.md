@@ -1,6 +1,3 @@
-
-
-
 # Source 9
 
 # "Automation and Inequality: The Changing Nature of Work" (Autor, 2015)
