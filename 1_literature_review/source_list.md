@@ -1,3 +1,5 @@
+# 1-20 completed
+
 1. "The Future of Employment: How Susceptible Are Jobs to Computerisation?" (Frey & Osborne, 2013)
 Source: Oxford Martin School
 Focus: Job automation vulnerability analysis across 702 occupations
@@ -98,6 +100,23 @@ Key Finding: AI could double economic growth rates but requires institutional ad
 Source: Journal of Economic Perspectives
 Focus: Task-based approach to understanding automation
 Key Finding: New tasks created by technology can offset automation displacement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ---------------- BELOW NOT YET REFACTORED ----------------
 
 # Additional Industry & Think Tank Reports
 21. "The Economic Impact of Artificial Intelligence" (PwC, 2021)
