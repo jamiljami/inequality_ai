@@ -2,7 +2,9 @@
 
 ## 1. [1_literature_review/] What do other sources say? 
 - research of everything below. 
-- "What do other institutions, universities, labs and others say about the impact of AI and automation? What is currently being automated and in what mediums and domains, what is on the cusp or the frontier or in the next 5 years about to be automatable, what does the landscape look like in terms of who are the big players and businesses and tools." Is there anything I am missing from my research prompt?
+- [X] "What do other institutions, universities, labs and others say about the impact of AI and automation? What is currently being automated and in what mediums and domains, what is on the cusp or the frontier or in the next 5 years about to be automatable, what does the landscape look like in terms of who are the big players and businesses and tools."
+- [O] Ask chat to do a research sweep
+- [ ] 
 
 ## 2. [2_automatable/] What is currently automatable? 
 - (image/video, text, code, digital, physical)
