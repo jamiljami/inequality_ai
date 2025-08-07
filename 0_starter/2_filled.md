@@ -3,14 +3,14 @@
 ## Overview
 This document outlines the methodology for studying the impact of automation on industry, employment and economic disparity.
 
-## Literature Review [1_literature_review/]
+## Literature Review            [1_literature_review/]
 1. What do other institutions, universities, labs and other say about the impact of AI on automation?
 2. What is currently being automated and in what mediums and domains?
 3. What is on the cusp or frontier or in the next 5 years about to be automated?
 4. What does the landscape look like in terms of who are the big players and businesses and tools?
-5. What are the effects on businesses, wealth inequality and society? We will stay at Level 3 [initial.md]. We will not consider the scope going wider in levels 4-5 [wide.md] or narrower in levels 2-3 [narrow.md].
+5. What are the effects on businesses, wealth inequality and society? We will stay at Level 3 [initial.md]. We will not consider the scope going wider in levels 4-5 (wide.md) or narrower in levels 2-3 (narrow.md).
 
-## Research Questions
+## Research Questions           [TO_BE_REVIEWED]
 ### A. Primary Questions
 1. [income_inequality] How does AI automation affect income inequality across different sectors and regions?
 2. [jobs_and_skills] Which jobs are most vulnerable to automation in the next 5 years, and what skills will remain valuable?

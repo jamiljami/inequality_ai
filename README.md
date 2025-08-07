@@ -53,15 +53,17 @@ Research questions are framed in a negative-first way to ensure consideration fo
 ```
 inequality_ai/
 ├── 📋 0_starter/              # Scope, methodology and frameworks
-├── 📚 1_literature_review     # initial review, narrow, wide, sources
-├── 🤖 2_automatable           # currently being automated
-├── 📊 3_effects               # current effects, impacts and trends
-├── 🧪 4_experiments           # model and thought experiments
-├── 📝 5_conclusions           # final research findings and recommendations
+├── 📚 1_literature_review/    # initial review, narrow, wide, sources
+├── 🤖 2_automatable/          # currently being automated
+├── 📊 3_effects/              # current effects, impacts and trends
+├── 🧪 4_experiments/          # model and thought experiments
+├── 📝 5_conclusions/          # final research findings and recommendations
 ├── 📄 CONTRIBUTING.md
 ├── 📖 README.md
 └── 📦 requirements.txt
 ```
+
+- Each subfolder is structured to include folders of the style data/ notebooks/ scripts/ docs/
 
 ---
 
