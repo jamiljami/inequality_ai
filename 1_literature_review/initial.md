@@ -2,23 +2,23 @@
 - "What do other institutions, universities, labs and others say about the impact of AI and automation? What is currently being automated and in what mediums and domains, what is on the cusp or the frontier or in the next 5 years about to be automatable, what does the landscape look like in terms of who are the big players and businesses and tools." Is there anything I am missing from my research prompt?
 
 Group 1 - Frame Of Reference
-- [Measurement_and_Metrics]
+- [Measurement_and_Metrics]                         [1_measurement]
+                                                    [2_sources_and_metrics]
 
 Group 2 - Landscape and Economics
-- [Temporal_and_Geographic_Dimensions] 
-- [Economic_Modeling_Gaps]
-- [Cross_Sector_Analysis]
+- [Temporal_and_Geographic_Dimensions]              [3_automatable]
+- [Economic_Modeling_Gaps]                          [4_big_tech]
+- [Cross_Sector_Analysis]                           [5_SME_bureacrats]
 
 Group 3 - Existentialism, Jobs and People
-- [Scenario_Planning]
-- [Resilience_and_Adaptation]
-- [Social_and_Psychological_Dimensions]
+- [Scenario_Planning]                               [6_inequality]
+- [Resilience_and_Adaptation]                       [7_job_quality]     
+- [Social_and_Psychological_Dimensions]             [8_demographics] 
 
 Group 4 - Governance and Policy
-- [Policy_and_Regulatory_Landscape]
+- [Policy_and_Regulatory_Landscape]                 [9_mitigation] 
 - [Ethical_and_Governance_Questions]
-- [Infrastructure_and_Technical_Considerations]
-
+- [Infrastructure_and_Technical_Considerations]     [10_societal]  
 
 ## ADDED
 1. [Measurement_and_Metrics]
