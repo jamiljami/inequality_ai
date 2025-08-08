@@ -12,24 +12,25 @@ This document outlines the methodology for studying the impact of automation on 
 
 ## Research Questions           [TO_BE_REVIEWED]
 ### TAGS
-[1_income_inequality]       [2_jobs_and_skills]     [3_demographics]
+[1_income_inequality]       [2_skills]     [3_demographics]
 [4_mitigation_policies]     [5_job_quality]         [6_big_tech]
 [7_losers]                  [8_environmental_social] 
 [9_measuring_automation]    [10_sources_and_metrics]
 
-### A. Primary Questions
-1. [1_income_inequality] How does AI automation affect income inequality across different sectors and regions?
-2. [2_jobs_and_skills] Which jobs are most vulnerable to automation in the next 5 years, and what skills will remain valuable?
-3. [3_demographics] How do different demographic groups (age, education, location) experience automation differently?
-4. [4_mitigation_policies] What policies and interventions are most effective at mitigating negative automation impacts?
-### B. Secondary Questions
-5. [5_job_quality] How does automation affect job quality and worker satisfaction, not just employment numbers?
-6. [6_big_tech] What role do large tech companies play in shaping automation outcomes and economic inequality?
-7. [7_losers] How do small businesses and gig workers adapt to automation compared to large corporations?
-8. [8_environmental_social] What are the environmental and social costs of automation that aren't captured in economic metrics?
-### C. Methodological Questions
-9. [9_measuring_automation] How can we measure the true economic impact of automation beyond simple job displacement?
-10. [10_sources_and_metrics] What data sources and metrics are most reliable for tracking automation's effects on inequality?
+### A. Methodological Questions
+1. [1_measurement] How can we measure the true economic impact of automation beyond simple job displacement?
+2. [2_sources_and_metrics] What data sources and metrics are most reliable for tracking automation's effects on inequality?
+### B. Economic Questions
+3. [3_automatable] Which jobs, tasks and skills are most vulnerable to automation in the next 5 years, and what will remain valuable?
+4. [6_big_tech] What role do large tech companies and key automation players have in shaping the economic landscape and competition?
+5. [7_SME_bureacrats] How are small-to-medium enterprises and bureacratic institutions (like governments) affected, can they adapt to the wave of automation?
+### C. Societal Questions
+6. [6_inequality] Is income and wealth inequality across different sectors and regions affected?
+7. [7_job_quality] How is job quality and worker satisfaction affected, not just employment numbers?
+8. [8_demographics] Do different demographic groups (education, location, age, gender, ethnicity, immigration) experience automation differently?
+9. [9_mitigation] What policies and interventions could be most effective at mitigating the negative impacts of automation?
+10. [8_environmental_social] What are the environmental and social costs of automation that aren't captured in economic metrics?
+
 
 ## BELOW INCOMPLETE
 -----------------------------------------------------------------------------
