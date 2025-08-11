@@ -11,6 +11,7 @@
 - Automatable (Point 2): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
 - Effects (Point 3): Focuses on employment displacement effects, finding 47% of US jobs at high risk
 - Experiments (Point 4): Uses task-based analysis methodology to evaluate automation potential across occupations
+- Conclusions (Point 5): Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
 
 ## Research Questions:
 - The paper is strongest on technical methodology and employment analysis but weaker on policy implications and broader social impacts.
@@ -55,16 +56,30 @@
 - High-risk occupations: Transportation/logistics, office/administrative support, production workers
 - Surprisingly vulnerable: Service occupations (where most US job growth occurred)
 - Protected occupations: Those requiring creative/social intelligence (engineers, scientists, healthcare workers, educators)
+- Big Players: Google (autonomous vehicles), Amazon (Kiva warehouse systems), Baxter (general-purpose robots)
+- Frontier Technologies: Autonomous vehicles, service robots, general-purpose robotics
+- Engineering Bottlenecks: Perception/manipulation in unstructured environments, creative intelligence encoding, social intelligence recognition
 
 [3_effects/]: 
 - Wage polarization: Low-skill/low-wage jobs most at risk
 - Educational protection: Higher education correlates with lower automation risk
 - Historical shift: Unlike 19th century (deskilling) and 20th century (middle-skill hollowing), 21st century automation targets low-skill jobs
+- Business Competition: Cost reduction through automation, productivity gains
+- Employment Impact: 47% of US jobs at high risk of automation
+- Worker Adaptation: Need for creative and social skills to remain competitive
 
 [4_experiments/]:
 - Methodology innovation: First quantitative study of future automation potential
 - Engineering bottlenecks: Identified specific technical barriers to automation
 - Task restructuring: Showed how tasks can be simplified to enable automation (e.g., prefabrication in construction)
+- Two-Wave Model: First wave targets routine tasks, second wave depends on perception/manipulation breakthroughs
+- Business Operation Framework: Analyzes employment, competition, customer, and revenue/cost effects
+
+[5_conclusions/]:
+- Speed of Progress: 47% of US jobs at risk, with rapid growth in service/industrial robots (20% annual growth, 166k units sold in 2011) and Chinese market (>50% growth in 2011)
+- Business/Competition Effects: Businesses gain cost reductions and productivity through robot adoption, following a two-wave automation model (routine tasks then perception tasks) enabled by task restructuring
+- Employment/Market Effects: Low-skill jobs face highest automation risk, requiring workers to develop creative/social skills while education provides some protection against displacement
+- Key Technical Insights: Engineering bottlenecks exist in perception/creativity/social intelligence, while algorithms and robots rapidly expand into information processing, manufacturing, and service domains
 
 ### [2_automatable/] What is currently automatable?
 
@@ -126,6 +141,7 @@
 > Service Sector Vulnerability: "A substantial share of employment in service occupations, where most US job growth has occurred over the past decades, are highly susceptible to computerisation" (p. 44)
 
 ### [4_experiments/] What is a thought experiment demonstration of an automated workplace?
+
 #### **Methodology Innovation:**
 
 > First Quantitative Study: "To our knowledge, no study has yet quantified what recent technological progress is likely to mean for the future of employment" (p. 3)
@@ -160,21 +176,77 @@ The paper provides a framework for analyzing automation effects across:
 - Revenue/Cost Analysis: Implicit in the focus on low-wage job displacement
 
 ### [5_conclusions/] What can we conclude from all of this?
-Fill in
+
+#### **Speed of Progress:**
+- Automation is accelerating beyond routine manufacturing tasks to include service and manual occupations
+- Technology is advancing faster than worker adaptation capabilities
+- The pace of innovation suggests rapid disruption across multiple sectors
+
+#### **Effects on Businesses and Competition:**
+- Cost Reduction: Automation provides significant cost advantages through labor substitution
+- Productivity Gains: Growing market for service robots (20% annual growth)
+- Competitive Pressure: Companies adopting automation gain competitive advantages
+- Industry Transformation: Traditional service sectors becoming vulnerable to automation
+
+#### **Effects on Employment and Markets:**
+- Massive Displacement: 47% of US employment at high risk of automation
+- Wage Polarization: Low-skill, low-wage jobs most vulnerable, creating inequality
+- Educational Protection: Higher education provides significant protection against automation
+- Skill Reallocation: Workers must transition to creative and social intelligence tasks
+
+#### **Market and Industry Implications:**
+- Service Sector Vulnerability: Areas of recent job growth (service occupations) are now at risk
+- Transportation Disruption: Autonomous vehicles threaten entire transportation/logistics sector
+- Office Automation: Administrative and clerical work highly susceptible
+- Manufacturing Evolution: Continued automation in production with new capabilities
+
+#### **Policy and Adaptation Challenges:**
+- Regulatory Lag: Current regulations may slow but not prevent automation
+- Worker Retraining: Massive need for skill development and education
+- Inequality Exacerbation: Automation likely to increase economic disparities
+- Social Disruption: Potential for significant unemployment and social unrest
+
+#### **Research and Methodology Contributions:**
+- Novel Framework: First quantitative methodology for measuring automation risk
+- Comprehensive Analysis: 702 occupations analyzed with machine learning approach
+- Predictive Model: Provides basis for future automation impact studies
+- Engineering Insights: Identified specific technical barriers and opportunities
+
+#### **Future Research Directions:**
+- Timeline Predictions: Need for more precise automation timeline estimates
+- Policy Analysis: Research on effective mitigation strategies
+- Regional Variations: Geographic differences in automation impact
+- Sector-Specific Studies: Detailed analysis of individual industry impacts
 
 ## -------------------- Research Questions ------------------
 
-### A. Primary Questions
+### A. Methodological Questions
 
-**[1_income_inequality]** How does AI automation affect income inequality across different sectors and regions? Directly addressed with strong evidence. The paper shows that automation will exacerbate income inequality by targeting low-wage, low-skill jobs while protecting high-wage, high-education occupations.
+**[1_measurement]** How can we measure the true economic impact of automation beyond simple job displacement? Directly addressed and a key contribution.
 
-> "Finally, we provide evidence that wages and educational attainment exhibit a strong negative relationship with the probability of computerisation." (p. 41)
+> "To our knowledge, no study has yet quantified what recent technological progress is likely to mean for the future of employment. The present study intends to bridge this gap in the literature." (p. 3)
 
-> "Our model predicts a truncation in the current trend towards labour market polarisation, with computerisation being principally confined to low-skill and low-wage occupations." (p. 44)
+> "We make no attempt to estimate how many jobs will actually be automated. The actual extent and pace of computerisation will depend on several additional factors which were left unaccounted for." (p. 41)
 
-> "We note that this finding implies a discontinuity between the nineteenth, twentieth and the twenty-first century, in the impact of capital deepening on the relative demand for skilled labour." (p. 44)
+Methodology innovation:
 
-**[2_jobs_and_skills]** Which jobs are most vulnerable to automation in the next 5 years, and what skills will remain valuable? Directly addressed - this is the paper's primary focus:
+> "We implement a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier." (p. 1)
+
+**[2_sources_and_metrics]** What data sources and metrics are most reliable for tracking automation's effects on inequality? Directly addressed.
+
+> "Accordingly, ONET has the advantage of providing more recent information on occupational work activities." (p. 4)
+
+> "We rely on the 2010 version of the DOT successor ONET – an online service developed for the US Department of Labor." (p. 4)
+
+Metrics used:
+- ONET occupational variables (9 key variables)
+- Employment data from Bureau of Labor Statistics
+- Wage and educational attainment data
+- Probability scores for automation risk
+
+### B. Economic Questions
+
+**[3_automatable]** Which jobs are most vulnerable to automation in the next 5 years, and what skills will remain valuable? Directly addressed - this is the paper's primary focus:
 
 > "According to our estimates around 47 percent of total US employment is in the high risk category." (p. 43)
 
@@ -187,51 +259,36 @@ Protected skills identified:
 
 > "Our findings thus imply that as technology races ahead, low-skill workers will reallocate to tasks that are non-susceptible to computerisation – i.e., tasks requiring creative and social intelligence." (p. 44)
 
-**[3_demographics]** How do different demographic groups (age, education, location) experience automation differently? Partially addressed through education lens. The limitation is the paper doesn't directly address age or geographic differences, focusing primarily on educational attainment as a demographic factor.
-
-> "We do the same for skill level, measured by the fraction of workers having obtained a bachelor's degree, or higher educational attainment, within each occupation." (p. 41)
-
-> "Bachelor's degree or better Probability of Computerisation 0 0.5 1 0% 20% 40% 60%" (p. 41, Figure IV)
-
-**[4_mitigation_policies]** What policies and interventions are most effective at mitigating negative automation impacts? Not directly addressed - The paper focuses on technological capabilities rather than policy solutions. However, it does mention:
-
-> "Second, regulatory concerns and political activism may slow down the process of computerisation." (p. 42)
-
-> "The states of California and Nevada are, for example, currently in the process of making legislatory changes to allow for driverless cars." (p. 42)
-
-### B. Secondary Questions
-**[5_job_quality]** How does automation affect job quality and worker satisfaction, not just employment numbers? Not directly addressed - the paper focuses on job displacement rather than quality of remaining jobs.  
-
-**[6_big_tech]** What role do large tech companies play in shaping automation outcomes and economic inequality? Mentioned but not deeply analyzed.
+**[4_big_tech]** What role do large tech companies and key automation players have in shaping the economic landscape and competition? Mentioned but not deeply analyzed.
 
 > "The autonomous driverless cars, developed by Google, provide one example of how manual tasks in transport and logistics may soon be automated." (p. 3)
 
 > "In the section "In Domain After Domain, Computers Race Ahead", they emphasise how fast moving these developments have been." (p. 3)
 
-**[7_losers]** How do small businesses and gig workers adapt to automation compared to large corporations? Not addressed - The paper doesn't differentiate between business sizes or employment types.
+**[5_SME_bureacrats]** How are small-to-medium enterprises and bureacratic institutions like governments affected, can they adapt to the wave of automation? Not addressed - The paper doesn't differentiate between business sizes or employment types.
 
-**[8_environmental_social]** What are the environmental and social costs of automation that aren't captured in economic metrics? Not addressed - The paper focuses purely on employment and economic metrics, not environmental or broader social impacts.
+### C. Societal Questions
 
-### C. Methodological Questions
+**[6_inequality]** Is income and wealth inequality across different sectors and regions affected? Directly addressed with strong evidence. The paper shows that automation will exacerbate income inequality by targeting low-wage, low-skill jobs while protecting high-wage, high-education occupations.
 
-**[9_measuring_automation]** How can we measure the true economic impact of automation beyond simple job displacement? Directly addressed and a key contribution.
+> "Finally, we provide evidence that wages and educational attainment exhibit a strong negative relationship with the probability of computerisation." (p. 41)
 
-> "To our knowledge, no study has yet quantified what recent technological progress is likely to mean for the future of employment. The present study intends to bridge this gap in the literature." (p. 3)
+> "Our model predicts a truncation in the current trend towards labour market polarisation, with computerisation being principally confined to low-skill and low-wage occupations." (p. 44)
 
-> "We make no attempt to estimate how many jobs will actually be automated. The actual extent and pace of computerisation will depend on several additional factors which were left unaccounted for." (p. 41)
+> "We note that this finding implies a discontinuity between the nineteenth, twentieth and the twenty-first century, in the impact of capital deepening on the relative demand for skilled labour." (p. 44)
 
-Methodology innovation:
+**[7_job_quality]** How is job quality and worker satisfaction affected, not just employment numbers? Not directly addressed - the paper focuses on job displacement rather than quality of remaining jobs.  
 
-> "We implement a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier." (p. 1)
+**[8_demographics]** Do different demographic groups (education, location, age, gender, ethnicity, immigration) experience automation differently? Partially addressed through education lens. The limitation is the paper doesn't directly address age or geographic differences, focusing primarily on educational attainment as a demographic factor.
 
-**[10_sources_and_metrics]** What data sources and metrics are most reliable for tracking automation's effects on inequality? Directly addressed.
+> "We do the same for skill level, measured by the fraction of workers having obtained a bachelor's degree, or higher educational attainment, within each occupation." (p. 41)
 
-> "Accordingly, ONET has the advantage of providing more recent information on occupational work activities." (p. 4)
+> "Bachelor's degree or better Probability of Computerisation 0 0.5 1 0% 20% 40% 60%" (p. 41, Figure IV)
 
-> "We rely on the 2010 version of the DOT successor ONET – an online service developed for the US Department of Labor." (p. 4)
+**[9_mitigation]** What policies and interventions could be most effective at mitigating the negative impacts of automation? Not directly addressed - The paper focuses on technological capabilities rather than policy solutions. However, it does mention:
 
-Metrics used:
-- ONET occupational variables (9 key variables)
-- Employment data from Bureau of Labor Statistics
-- Wage and educational attainment data
-- Probability scores for automation risk
+> "Second, regulatory concerns and political activism may slow down the process of computerisation." (p. 42)
+
+> "The states of California and Nevada are, for example, currently in the process of making legislatory changes to allow for driverless cars." (p. 42)
+
+**[10_societal]** What are the environmental and social costs of automation that aren't captured in economic metrics? Not addressed - The paper focuses purely on employment and economic metrics, not environmental or broader social impacts.
