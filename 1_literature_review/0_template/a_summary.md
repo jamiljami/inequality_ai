@@ -2,7 +2,7 @@
 
 This file ascertains the nature of the paper: its background/citations/sources, research direction/questions/framework/methodology, its methods/data/figures/insights, and its conclusions/limitations. It does not use 1_scope.md or 2_filled.md in any way and thus is more broad and blue-sky-thinking in the information it obtains.
 
-It is directly different and distinct from b_review.md, where b_review.md takes information from the paper itself, a_summary.md, 1_scope.md (for scope points) and 2_filled.md (for research questions) to conduct an analysis driven by the user's reserach goals.
+It is directly different and distinct from b_scope.md and c_questions.md. Where b_scope.md takes the paper itself, a_summary.md and 1_scope.md (for scope points) to conduct an analysis driven by the user's scope points. And where c_questions.md takes the paper itself, a_summary.md and 2_filled.md (for research questions) to conduct an analysis driven by the user's research questions.
 
 **----------------- TEMPLATE BELOW -----------------**
 
