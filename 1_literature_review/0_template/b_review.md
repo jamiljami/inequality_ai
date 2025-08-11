@@ -34,13 +34,6 @@
 
 # -------------------- IN DETAIL ------------------
 
-## -------------------- Methodology ------------------
-1. [METHODOLOGY APPROACH 1]: [DESCRIPTION]
-    - Detail 1
-    - Detail 2
-2. [METHODOLOGY APPROACH 2]: [DESCRIPTION]
-X. [METHODOLOGY APPROACH X]: [DESCRIPTION]
-
 ## -------------------- Scope Points ------------------
 
 ### Key Insights:
@@ -58,6 +51,8 @@ X. [METHODOLOGY APPROACH X]: [DESCRIPTION]
 - [KEY INSIGHT 1 from 4_experiments/ below]
 - [KEY INSIGHT 2 from 4_experiments/ below]
 - [KEY INSIGHT 3 from 4_experiments/ below]
+- **Methodology**: [METHODOLOGY APPROACH 1] - [DESCRIPTION]
+- **Technical Approach**: [METHODOLOGY APPROACH 2] - [DESCRIPTION]
 
 [5_conclusions/]:
 - [KEY INSIGHT 1 from 5_conclusions/ below]
@@ -174,11 +169,21 @@ Example ideas:
 
 > "[RELEVANT QUOTE{S} X]" (p. [PAGE])
 
+**Methodology Approach:**
+- [METHODOLOGY APPROACH 1]: [DESCRIPTION]
+    - Detail 1
+    - Detail 2
+- [METHODOLOGY APPROACH X]: [DESCRIPTION]
+
 **[2_sources_and_metrics]** What data sources and metrics are most reliable for tracking automation's effects on inequality? [ADDRESSED/PARTIALLY ADDRESSED/NOT ADDRESSED + comment]
 
 > "[RELEVANT QUOTE{S} 1]" (p. [PAGE])
 
 > "[RELEVANT QUOTE{S} X]" (p. [PAGE])
+
+**Technical Implementation:**
+- [TECHNICAL DETAIL 1]: [DESCRIPTION]
+- [TECHNICAL DETAIL X]: [DESCRIPTION]
 
 ### B. Economic Questions
 

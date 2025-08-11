@@ -8,10 +8,10 @@
 - [conclusion]: The paper's findings suggest that low-skill workers will need to acquire creative and social skills to remain competitive, which will exacerbate inequality and automation effects.
 
 ## Scope
-- Automatable (Point 2): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
-- Effects (Point 3): Focuses on employment displacement effects, finding 47% of US jobs at high risk
-- Experiments (Point 4): Uses task-based analysis methodology to evaluate automation potential across occupations
-- Conclusions (Point 5): Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
+- (Point 2) [2_automatable/]): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
+- (Point 3) [3_effects/]: Focuses on employment displacement effects, finding 47% of US jobs at high risk
+- (Point 4) [4_experiments/]: Uses task-based analysis methodology to evaluate automation potential across occupations
+- (Point 5) [5_conclusions/]: Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
 
 ## Research Questions:
 - The paper is strongest on technical methodology and employment analysis but weaker on policy implications and broader social impacts.

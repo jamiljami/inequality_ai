@@ -8,10 +8,10 @@
 - [conclusion]: The paper's findings suggest that low-skill workers will need to acquire creative and social skills to remain competitive, which will exacerbate inequality and automation effects.
 
 ## Scope
-- Automatable (Point 2): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
-- Effects (Point 3): Focuses on employment displacement effects, finding 47% of US jobs at high risk
-- Experiments (Point 4): Uses task-based analysis methodology to evaluate automation potential across occupations
-- Conclusions (Point 5): Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
+- (Point 2) [2_automatable/]): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
+- (Point 3) [3_effects/]: Focuses on employment displacement effects, finding 47% of US jobs at high risk
+- (Point 4) [4_experiments/]: Uses task-based analysis methodology to evaluate automation potential across occupations
+- (Point 5) [5_conclusions/]: Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
 
 ## Research Questions:
 - The paper is strongest on technical methodology and employment analysis but weaker on policy implications and broader social impacts.
@@ -42,13 +42,6 @@
 
 # -------------------- IN DETAIL ------------------
 
-## -------------------- Methodology ------------------
-1. Task-based analysis: They identified engineering bottlenecks that prevent automation:
-    - Perception and manipulation tasks (robots struggle with unstructured environments)
-    - Creative intelligence tasks (difficult to encode creative values)
-    - Social intelligence tasks (challenges in real-time emotion recognition)
-2. Machine learning approach: Used ONET data (9 variables) to train a classifier on 70 hand-labeled occupations, then predicted automation probability for all 702 occupations
-
 ## -------------------- Scope Points ------------------
 
 ### Key Insights:
@@ -69,8 +62,9 @@
 - Worker Adaptation: Need for creative and social skills to remain competitive
 
 [4_experiments/]:
-- Methodology innovation: First quantitative study of future automation potential
-- Engineering bottlenecks: Identified specific technical barriers to automation
+- Methodology innovation: First quantitative study of future automation potential using machine learning approach
+- Technical approach: Used ONET data (9 variables) to train a Gaussian Process classifier on 70 hand-labeled occupations, then predicted automation probability for all 702 occupations
+- Engineering bottlenecks: Identified specific technical barriers to automation through task-based analysis
 - Task restructuring: Showed how tasks can be simplified to enable automation (e.g., prefabrication in construction)
 - Two-Wave Model: First wave targets routine tasks, second wave depends on perception/manipulation breakthroughs
 - Business Operation Framework: Analyzes employment, competition, customer, and revenue/cost effects
@@ -232,11 +226,23 @@ Methodology innovation:
 
 > "We implement a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier." (p. 1)
 
+**Task-based Analysis Approach:**
+The study identified engineering bottlenecks that prevent automation through systematic analysis:
+- **Perception and manipulation tasks**: Robots struggle with unstructured environments
+- **Creative intelligence tasks**: Difficult to encode creative values in programs
+- **Social intelligence tasks**: Challenges in real-time emotion recognition
+
 **[2_sources_and_metrics]** What data sources and metrics are most reliable for tracking automation's effects on inequality? Directly addressed.
 
 > "Accordingly, ONET has the advantage of providing more recent information on occupational work activities." (p. 4)
 
 > "We rely on the 2010 version of the DOT successor ONET – an online service developed for the US Department of Labor." (p. 4)
+
+**Machine Learning Methodology:**
+- Used ONET data (9 key variables) to train a classifier on 70 hand-labeled occupations
+- Applied Gaussian Process classifier to predict automation probability for all 702 occupations
+- Combined with employment data from Bureau of Labor Statistics
+- Integrated wage and educational attainment data for comprehensive analysis
 
 Metrics used:
 - ONET occupational variables (9 key variables)
