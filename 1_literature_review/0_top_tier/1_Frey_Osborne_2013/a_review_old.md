@@ -15,23 +15,23 @@
 ## Research Questions:
 - The paper is strongest on technical methodology and employment analysis but weaker on policy implications and broader social impacts.
 - Strongly addressed (4/10):
-    - [1_measurement] 
-        - Provides methodology for measuring automation risk
-    - [2_sources_and_metrics] 
-        - Develops novel quantitative framework using occupational data and machine learning
-    - [3_automatable] 
-        - Directly addresses which jobs are vulnerable to automation and what skills remain valuable
-    - [6_inequality] 
+    - [1_income_inequality] 
         - Analyzes how automation disproportionately affects low-wage jobs and exacerbates inequality
+    - [2_jobs_and_skills] 
+        - Directly addresses which jobs are vulnerable to automation and what skills remain valuable
+    - [9_measuring_automation] 
+        - Provides methodology for measuring automation risk
+    - [10_sources_and_metrics] 
+        - Develops novel quantitative framework using occupational data and machine learning
 - Partially addressed (2/10):
-    - [8_demographics] 
+    - [3_demographics] 
         - Implicitly touches on demographic differences through occupation analysis but only education not age/location
-    - [4_big_tech] - mentioned but not analyzed
+    - Big tech role (#6) - mentioned but not analyzed
 - Not addressed (4/10):
-    - [5_SME_bureacrats] - Small business/gig workers
-    - [7_job_quality] - Job quality
-    - [9_mitigation] - Mitigation policies
-    - [10_societal] - Environmental/social costs
+    - Mitigation policies (#4)
+    - Job quality (#5)
+    - Small business/gig workers (#7)
+    - Environmental/social costs (#8)
 
 ## Limitations Acknowledged:
 - Focuses on technological capability, not actual adoption
