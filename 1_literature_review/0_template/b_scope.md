@@ -15,12 +15,7 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Focus: [BRIEF DESCRIPTION OF MAIN FOCUS]
 - [findings]: [KEY FINDINGS IN ONE-LINE SEPARATED BY SEMICOLONS]
 - [conclusion]: [MAIN CONCLUSION/IMPLICATION]
-- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
-
-## Paper Limitations:
-- [LIMITATION 1]
-- [LIMITATION 2]
-- [LIMITATION X]
+- [score]: X / 10 - [Summary sentence and dense single paragraph of the pros/cons/limitations taken from the rest of this document and paper as related to the scope points]
 
 ## Key Insights:
 

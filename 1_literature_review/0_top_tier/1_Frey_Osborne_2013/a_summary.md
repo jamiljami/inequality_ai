@@ -15,38 +15,35 @@ Start of file:
 - Focus: Novel methodology to estimate computerisation probability for 702 US occupations using machine learning
 - [findings]: 47% of US employment at high risk of automation; wages and education negatively correlated with automation risk; two waves of computerisation predicted
 - [conclusion]: Low-skill, low-wage jobs most vulnerable; high-skill jobs requiring creativity and social intelligence least vulnerable
-- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
-
-## Paper Limitations:
-- 
+- [score]: X / 10 - [Summary sentence and dense single paragraph of the pros/cons/limitations taken from the rest of this document]
 
 ## DETAILS
 
 1. Background/Citations/Sources
-- Builds on Keynes' prediction of technological unemployment; cites extensive literature on computerisation and labor markets
-- Uses O*NET database for occupational characteristics and BLS employment data
-- Draws from machine learning and robotics literature for technological capabilities assessment
-- Incorporates Ricardo's machinery theory and economic destruction vs. capitalization effects
-- Emphasizes big data as key enabler of automation through pattern recognition
+- [keynes_motivation] Builds on Keynes' prediction of technological unemployment; cites extensive literature on computerisation and labor markets
+- [onet_database] Uses O*NET database for occupational characteristics and BLS employment data
+- [ml_literature] Draws from machine learning and robotics literature for technological capabilities assessment
+- [economic_theory] Incorporates Ricardo's machinery theory and economic destruction vs. capitalization effects
+- [ml_literature] Emphasizes big data as key enabler of automation through pattern recognition
 
 2. Research Direction/Questions/Framework/Methodology
-- Develops novel Gaussian process classifier to estimate automation probability
-- Identifies three engineering bottlenecks: perception/manipulation, creative intelligence, social intelligence
-- Uses 70 hand-labeled occupations as training data for machine learning algorithm
-- Highlights comparative advantages of computers: scalability and lack of human biases
-- Examines task simplification strategies like prefabrication and clever task design
+- [methodology] Develops novel Gaussian process classifier to estimate automation probability
+- [bottlenecks] Identifies three engineering bottlenecks: perception/manipulation, creative intelligence, social intelligence
+- [methodology] Uses 70 hand-labeled occupations as training data for machine learning algorithm
+- [computer_advantages] Highlights comparative advantages of computers: scalability and lack of human biases
+- [task_design] Examines task simplification strategies like prefabrication and clever task design
 
 3. Methods/Data/Figures/Insights
-- Analyzes 702 detailed occupations using 9 O*NET variables measuring automation bottlenecks
-- Creates probability distribution showing 47% high-risk, 19% medium-risk, 33% low-risk employment
-- Shows strong negative correlation between wages/education and automation probability
-- Provides specific examples: IBM Watson, Google driverless cars, Baxter robot, SmartAction call centers
-- Documents concrete occupation examples across risk categories (cashiers vs. chief executives)
+- [methodology] Analyzes 702 detailed occupations using 9 O*NET variables measuring automation bottlenecks
+- [findings] Creates probability distribution showing 47% high-risk, 19% medium-risk, 33% low-risk employment
+- [findings] Shows strong negative correlation between wages/education and automation probability
+- [examples] Provides specific examples: IBM Watson, Google driverless cars, Baxter robot, SmartAction call centers
+- [examples] Documents concrete occupation examples across risk categories (cashiers vs. chief executives)
 
 4. Conclusions/Limitations
-- Predicts two waves: immediate automation of routine tasks, followed by technological plateau
-- Acknowledges limitations: no timeline predictions, regulatory factors not considered, within-occupation variation not captured
-- Suggests historical discontinuity from 20th century polarization to 21st century low-skill focus
+- [conclusions] Predicts two waves: immediate automation of routine tasks, followed by technological plateau
+- [limitations] Acknowledges limitations: no timeline predictions, regulatory factors not considered, within-occupation variation not captured
+- [conclusions] Suggests historical discontinuity from 20th century polarization to 21st century low-skill focus
 
 # -------------------- IN DETAIL ------------------
 

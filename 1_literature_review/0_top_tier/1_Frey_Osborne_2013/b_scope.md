@@ -14,13 +14,15 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Focus: Job automation vulnerability analysis across 702 occupations
 - [findings]: 47% of US jobs are at high risk of automation; Used machine learning (Gaussian Process classifier) to analyze 702 occupations; Found strong negative correlation between wages/education and automation risk 
 - [conclusion]: The paper's findings suggest that low-skill workers will need to acquire creative and social skills to remain competitive, which will exacerbate inequality and automation effects.
-- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
-
-## Paper Limitations:
-- Focuses on technological capability, not actual adoption
-- Doesn't account for wage levels, capital prices, or labor shortages
-- Regulatory and political factors not considered
-- No timeline predictions for engineering breakthroughs
+- [score]: X / 10 - [Summary sentence and dense single paragraph of the pros/cons/limitations taken from the rest of this document]
+    - Pros:
+        - Pro: details
+    - Cons:
+        - Con: details and limitations
+        - Focuses on technological capability, not actual adoption
+        - Doesn't account for wage levels, capital prices, or labor shortages
+        - Regulatory and political factors not considered
+        - No timeline predictions for engineering breakthroughs
 
 ## Key Insights:
 
