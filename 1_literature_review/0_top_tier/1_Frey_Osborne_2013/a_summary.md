@@ -17,32 +17,36 @@ Start of file:
 - [conclusion]: Low-skill, low-wage jobs most vulnerable; high-skill jobs requiring creativity and social intelligence least vulnerable
 
 ## DETAILS
-- Background/Citations/Sources
-    - Builds on Keynes' prediction of technological unemployment; cites extensive literature on computerisation and labor markets
-    - Uses O*NET database for occupational characteristics and BLS employment data
-    - Draws from machine learning and robotics literature for technological capabilities assessment
-    - Incorporates Ricardo's machinery theory and economic destruction vs. capitalization effects
-    - Emphasizes big data as key enabler of automation through pattern recognition
-- Research Direction/Questions/Framework/Methodology
-    - Develops novel Gaussian process classifier to estimate automation probability
-    - Identifies three engineering bottlenecks: perception/manipulation, creative intelligence, social intelligence
-    - Uses 70 hand-labeled occupations as training data for machine learning algorithm
-    - Highlights comparative advantages of computers: scalability and lack of human biases
-    - Examines task simplification strategies like prefabrication and clever task design
-- Methods/Data/Figures/Insights
-    - Analyzes 702 detailed occupations using 9 O*NET variables measuring automation bottlenecks
-    - Creates probability distribution showing 47% high-risk, 19% medium-risk, 33% low-risk employment
-    - Shows strong negative correlation between wages/education and automation probability
-    - Provides specific examples: IBM Watson, Google driverless cars, Baxter robot, SmartAction call centers
-    - Documents concrete occupation examples across risk categories (cashiers vs. chief executives)
-- Conclusions/Limitations
-    - Predicts two waves: immediate automation of routine tasks, followed by technological plateau
-    - Acknowledges limitations: no timeline predictions, regulatory factors not considered, within-occupation variation not captured
-    - Suggests historical discontinuity from 20th century polarization to 21st century low-skill focus
+
+1. Background/Citations/Sources
+- Builds on Keynes' prediction of technological unemployment; cites extensive literature on computerisation and labor markets
+- Uses O*NET database for occupational characteristics and BLS employment data
+- Draws from machine learning and robotics literature for technological capabilities assessment
+- Incorporates Ricardo's machinery theory and economic destruction vs. capitalization effects
+- Emphasizes big data as key enabler of automation through pattern recognition
+
+2. Research Direction/Questions/Framework/Methodology
+- Develops novel Gaussian process classifier to estimate automation probability
+- Identifies three engineering bottlenecks: perception/manipulation, creative intelligence, social intelligence
+- Uses 70 hand-labeled occupations as training data for machine learning algorithm
+- Highlights comparative advantages of computers: scalability and lack of human biases
+- Examines task simplification strategies like prefabrication and clever task design
+
+3. Methods/Data/Figures/Insights
+- Analyzes 702 detailed occupations using 9 O*NET variables measuring automation bottlenecks
+- Creates probability distribution showing 47% high-risk, 19% medium-risk, 33% low-risk employment
+- Shows strong negative correlation between wages/education and automation probability
+- Provides specific examples: IBM Watson, Google driverless cars, Baxter robot, SmartAction call centers
+- Documents concrete occupation examples across risk categories (cashiers vs. chief executives)
+
+4. Conclusions/Limitations
+- Predicts two waves: immediate automation of routine tasks, followed by technological plateau
+- Acknowledges limitations: no timeline predictions, regulatory factors not considered, within-occupation variation not captured
+- Suggests historical discontinuity from 20th century polarization to 21st century low-skill focus
 
 # -------------------- IN DETAIL ------------------
 
-## Background/Citations/Sources
+## 1. Background/Citations/Sources
 
 ### Historical Context and Motivation
 
@@ -86,7 +90,7 @@ Start of file:
 
 > Technological foundation: "Drawing upon recent developments in Engineering Sciences, and in particular advances in the fields of ML, including Data Mining, Machine Vision, Computational Statistics and other sub-fields of Artificial Intelligence, as well as MR, we derive additional dimensions required to understand the susceptibility of jobs to computerisation." (p. 4)
 
-## Research Direction/Questions/Framework/Methodology
+## 2. Research Direction/Questions/Framework/Methodology
 
 ### Research Question and Scope
 
@@ -132,7 +136,7 @@ Start of file:
 
 > Objective variables: "Second, we use objective O*NET variables corresponding to the defined bottlenecks to computerisation." (p. 30)
 
-## Methods/Data/Figures/Insights
+## 3. Methods/Data/Figures/Insights
 
 ### Data Collection and Processing
 
@@ -232,7 +236,7 @@ Start of file:
 
 > Actors: "The O*NET tasks of actors, for example, involve 'performing humorous and serious interpretations of emotions, actions, and situations, using body movements, facial expressions, and gestures', and 'learning about characters in scripts and their relationships to each other in order to develop role interpretations.'" (p. 40)
 
-## Conclusions/Limitations
+## 4. Conclusions/Limitations
 
 ### Conclusions
 

@@ -17,14 +17,18 @@ Start of file:
 - [conclusion]: [MAIN CONCLUSIONS/IMPLICATIONS]
 
 ## DETAILS
-- Background/Citations/Sources
-    - [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
-- Research Direction/Questions/Framework/Methodology
-    - [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
-- Methods/Data/Figures/Insights
-    - [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
-- Conclusions/Limitations
-    - [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
+
+1. Background/Citations/Sources
+- [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
+
+2. Research Direction/Questions/Framework/Methodology
+- [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
+
+3. Methods/Data/Figures/Insights
+- [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
+
+4. Conclusions/Limitations
+- [SUMMARY BULLET POINTS on any notable points summarised from the IN DETAIL Section below]
 
 # -------------------- IN DETAIL ------------------
 
@@ -48,14 +52,14 @@ Start of file:
 
 - SAME FORMAT
 
-## Background/Citations/Sources
+## 1. Background/Citations/Sources
 
 Example Areas:
 - Background - where is the author coming from, who are they and what is their experience?
 - Citations/Sources - are they citing from any sources inlcuding for their data and why those sources?
 - Caveats - any caveats, limitations or errors in these areas
 
-## Research Direction/Questions/Framework/Methodology
+## 2. Direction/Questions/Framework/Methodology
 
 Example Areas:
 - Direction - where is the author taking the direction of this paper and why?
@@ -64,7 +68,7 @@ Example Areas:
 - Methodology - what methodology are they using and why?
 - Caveats - any caveats, limitations or errors in these areas
 
-## Methods/Data/Figures/Insights
+## 3. Methods/Data/Figures/Insights
 
 Example Areas:
 - Methods - what exact methods are being used and why?
@@ -73,7 +77,7 @@ Example Areas:
 - Insights - what insights are they trying to make from the methods, data and figures, and any previous context?
 - Caveats - any caveats, limitations or errors in these areas
 
-## Conclusions/Limitations
+## 4. Conclusions/Limitations
 
 Example Areas:
 - Conclusions - what conclusions are being made and why?
