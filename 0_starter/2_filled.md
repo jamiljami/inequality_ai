@@ -1,4 +1,5 @@
 # Research Paper
+This document is used to assess papers according to the research questions below and filling in a c_questions.md file.
 
 ## Overview
 This document outlines the methodology for studying the impact of automation on industry, employment and economic disparity.
@@ -22,14 +23,14 @@ This document outlines the methodology for studying the impact of automation on 
 2.  What data sources and metrics are most reliable for tracking automation's effects on inequality? [2_sources_and_metrics]
 ### B. Economic Questions
 3. Which jobs, tasks and skills are most vulnerable to automation in the next 5 years, and what will remain valuable? [3_automatable]
-4. What role do large tech companies and key automation players have in shaping the economic landscape and competition? [4_big_tech]
+4. What role do large tech companies and key automation players have in shaping the economic landscape and competition, including in the diffusion of technologies and methods? [4_big_tech]
 5. How are small-to-medium enterprises and bureacratic institutions like governments affected, can they adapt to the wave of automation? [5_SME_bureacrats]
 ### C. Societal Questions
 6. Is income and wealth inequality across different sectors and regions affected? [6_inequality]
 7. How is job quality and worker satisfaction affected, not just employment numbers? [7_job_quality]
-8. Do different demographic groups (education, location, age, gender, ethnicity, immigration) experience automation differently? [8_demographics]
+8. Do different geographic regions and demographic groups (education, location, age, gender, ethnicity, immigration) experience automation differently? [8_demographics]
 9. What policies and interventions could be most effective at mitigating the negative impacts of automation? [9_mitigation]
-10. What are the environmental and social costs of automation that aren't captured in economic metrics? [10_societal]
+10. What are the environmental, psychological and social costs of automation that aren't captured in traditional economic metrics? [10_societal]
 
 
 ## BELOW INCOMPLETE
