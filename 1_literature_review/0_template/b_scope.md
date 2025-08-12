@@ -4,7 +4,7 @@ This file takes the paper itself, a_summary.md and 1_scope.md (for scope points)
 
 Where a_summary.md ascertains the nature of the paper and does not use 1_scope.md or 2_filled.md in any way, thus is more broad and blue-sky-thinking in the information it obtains from the paper. And where c_questions.md takes the paper itself, a_summary.md and 2_filled.md (for research questions) to conduct an analysis driven by the user's research questions.
 
-**----------------- TEMPLATE BELOW -----------------**
+**----------------- FILE BELOW -----------------**
 
 
 # Source [NUMBER] 
@@ -15,44 +15,38 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Focus: [BRIEF DESCRIPTION OF MAIN FOCUS]
 - [findings]: [KEY FINDINGS IN ONE-LINE SEPARATED BY SEMICOLONS]
 - [conclusion]: [MAIN CONCLUSION/IMPLICATION]
+- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
 
-## Scope
-- (Point 2) [2_automatable/]: [HOW DOES THIS SOURCE ADDRESS WHAT IS CURRENTLY AUTOMATABLE?]
-- (Point 3) [3_effects/]: [HOW DOES THIS SOURCE ADDRESS CURRENT EFFECTS OF AUTOMATION?] 
-- (Point 4) [4_experiments/]: [HOW DOES THIS SOURCE ADDRESS THOUGHT EXPERIMENTS/DEMONSTRATIONS?]
-- (Point 5) [5_conclusions/]: [HOW DOES THIS SOURCE ADDRESS KEY CONCLUSIONS]
-
-## Limitations Acknowledged:
+## Paper Limitations:
 - [LIMITATION 1]
 - [LIMITATION 2]
 - [LIMITATION X]
 
-# -------------------- IN DETAIL ------------------
+## Key Insights:
 
-## -------------------- Scope Points ------------------
-
-### Key Insights:
-[2_automatable/]:
+### [2_automatable/]: [HOW DOES THIS SOURCE ADDRESS WHAT IS CURRENTLY AUTOMATABLE?]
 - [KEY INSIGHT 1 from 2_automatable/ below]
 - [KEY INSIGHT 2 from 2_automatable/ below]
 - [KEY INSIGHT X from 2_automatable/ below]
 
-[3_effects/]: 
+### [3_effects/]: [HOW DOES THIS SOURCE ADDRESS CURRENT EFFECTS OF AUTOMATION?] 
 - [KEY INSIGHT 1 from 3_effects/ below]
 - [KEY INSIGHT 2 from 3_effects/ below]
 - [KEY INSIGHT 3 from 3_effects/ below]
 
-[4_experiments/]:
+### [4_experiments/]: [HOW DOES THIS SOURCE ADDRESS THOUGHT EXPERIMENTS/DEMONSTRATIONS?]
 - [KEY INSIGHT 1 from 4_experiments/ below]
 - [KEY INSIGHT 2 from 4_experiments/ below]
 - [KEY INSIGHT 3 from 4_experiments/ below]
 - **Methodology**: [METHODOLOGY APPROACH 1] - [DESCRIPTION]
 - **Technical Approach**: [METHODOLOGY APPROACH 2] - [DESCRIPTION]
 
-[5_conclusions/]:
+### [5_conclusions/]: [HOW DOES THIS SOURCE ADDRESS KEY CONCLUSIONS]
 - [KEY INSIGHT 1 from 5_conclusions/ below]
 - [KEY INSIGHT 2 from 5_conclusions/ below]
 - [KEY INSIGHT 3 from 5_conclusions/ below]
+
+# -------------------- IN DETAIL ------------------
 
 ### [2_automatable/] What is currently automatable?
 

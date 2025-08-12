@@ -4,7 +4,7 @@ This file ascertains the nature of the paper: its background/citations/sources, 
 
 It is directly different and distinct from b_scope.md and c_questions.md. Where b_scope.md takes the paper itself, a_summary.md and 1_scope.md (for scope points) to conduct an analysis driven by the user's scope points. And where c_questions.md takes the paper itself, a_summary.md and 2_filled.md (for research questions) to conduct an analysis driven by the user's research questions.
 
-**----------------- TEMPLATE BELOW -----------------**
+**----------------- FILE BELOW -----------------**
 
 Start of file:
 # Source [NUMBER] 
@@ -15,6 +15,12 @@ Start of file:
 - Focus: [BRIEF DESCRIPTION OF MAIN FOCUS]
 - [findings]: [KEY FINDINGS IN ONE-LINE SEPARATED BY SEMICOLONS]
 - [conclusion]: [MAIN CONCLUSIONS/IMPLICATIONS]
+- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
+
+## Paper Limitations:
+- [LIMITATION 1]
+- [LIMITATION 2]
+- [LIMITATION X]
 
 ## DETAILS
 
