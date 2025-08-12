@@ -4,7 +4,7 @@ This file ascertains the nature of the paper: its background/citations/sources, 
 
 It is directly different and distinct from b_scope.md and c_questions.md. Where b_scope.md takes the paper itself, a_summary.md and 1_scope.md (for scope points) to conduct an analysis driven by the user's scope points. And where c_questions.md takes the paper itself, a_summary.md and 2_filled.md (for research questions) to conduct an analysis driven by the user's research questions.
 
-**----------------- TEMPLATE BELOW -----------------**
+**----------------- FILE BELOW -----------------**
 
 Start of file:
 # Source 1 
@@ -15,6 +15,10 @@ Start of file:
 - Focus: Novel methodology to estimate computerisation probability for 702 US occupations using machine learning
 - [findings]: 47% of US employment at high risk of automation; wages and education negatively correlated with automation risk; two waves of computerisation predicted
 - [conclusion]: Low-skill, low-wage jobs most vulnerable; high-skill jobs requiring creativity and social intelligence least vulnerable
+- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
+
+## Paper Limitations:
+- 
 
 ## DETAILS
 

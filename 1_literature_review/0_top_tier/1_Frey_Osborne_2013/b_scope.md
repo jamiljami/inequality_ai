@@ -4,7 +4,7 @@ This file takes the paper itself, a_summary.md and 1_scope.md (for scope points)
 
 Where a_summary.md ascertains the nature of the paper and does not use 1_scope.md or 2_filled.md in any way, thus is more broad and blue-sky-thinking in the information it obtains from the paper. And where c_questions.md takes the paper itself, a_summary.md and 2_filled.md (for research questions) to conduct an analysis driven by the user's research questions.
 
-**----------------- TEMPLATE BELOW -----------------**
+**----------------- FILE BELOW -----------------**
 
 # Source 1 
 # ----------------- AT A GLANCE ------------------
@@ -14,44 +14,17 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Focus: Job automation vulnerability analysis across 702 occupations
 - [findings]: 47% of US jobs are at high risk of automation; Used machine learning (Gaussian Process classifier) to analyze 702 occupations; Found strong negative correlation between wages/education and automation risk 
 - [conclusion]: The paper's findings suggest that low-skill workers will need to acquire creative and social skills to remain competitive, which will exacerbate inequality and automation effects.
+- [score]: [OVERALL SCORE FOR PAPER AND PROS/CONS]
 
-## Scope
-- (Point 2) [2_automatable/]): Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
-- (Point 3) [3_effects/]: Focuses on employment displacement effects, finding 47% of US jobs at high risk
-- (Point 4) [4_experiments/]: Uses task-based analysis methodology to evaluate automation potential across occupations
-- (Point 5) [5_conclusions/]: Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
-
-## Research Questions:
-- The paper is strongest on technical methodology and employment analysis but weaker on policy implications and broader social impacts.
-- Strongly addressed (4/10):
-    - [1_measurement] 
-        - Provides methodology for measuring automation risk
-    - [2_sources_and_metrics] 
-        - Develops novel quantitative framework using occupational data and machine learning
-    - [3_automatable] 
-        - Directly addresses which jobs are vulnerable to automation and what skills remain valuable
-    - [6_inequality] 
-        - Analyzes how automation disproportionately affects low-wage jobs and exacerbates inequality
-- Partially addressed (2/10):
-    - [8_demographics] 
-        - Implicitly touches on demographic differences through occupation analysis but only education not age/location
-    - [4_big_tech] - mentioned but not analyzed
-- Not addressed (4/10):
-    - [5_SME_bureacrats] - Small business/gig workers
-    - [7_job_quality] - Job quality
-    - [9_mitigation] - Mitigation policies
-    - [10_societal] - Environmental/social costs
-
-## Limitations Acknowledged:
+## Paper Limitations:
 - Focuses on technological capability, not actual adoption
 - Doesn't account for wage levels, capital prices, or labor shortages
 - Regulatory and political factors not considered
 - No timeline predictions for engineering breakthroughs
 
-# -------------------- IN DETAIL ------------------
+## Key Insights:
 
-### Key Insights:
-[2_automatable/]:
+### [2_automatable/]: Analyzes 702 occupations for automation susceptibility, identifying specific job categories at risk
 - High-risk occupations: Transportation/logistics, office/administrative support, production workers
 - Surprisingly vulnerable: Service occupations (where most US job growth occurred)
 - Protected occupations: Those requiring creative/social intelligence (engineers, scientists, healthcare workers, educators)
@@ -59,7 +32,7 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Frontier Technologies: Autonomous vehicles, service robots, general-purpose robotics
 - Engineering Bottlenecks: Perception/manipulation in unstructured environments, creative intelligence encoding, social intelligence recognition
 
-[3_effects/]: 
+### [3_effects/]: Focuses on employment displacement effects, finding 47% of US jobs at high risk 
 - Wage polarization: Low-skill/low-wage jobs most at risk
 - Educational protection: Higher education correlates with lower automation risk
 - Historical shift: Unlike 19th century (deskilling) and 20th century (middle-skill hollowing), 21st century automation targets low-skill jobs
@@ -67,7 +40,7 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Employment Impact: 47% of US jobs at high risk of automation
 - Worker Adaptation: Need for creative and social skills to remain competitive
 
-[4_experiments/]:
+### [4_experiments/]: Uses task-based analysis methodology to evaluate automation potential across occupations
 - Methodology innovation: First quantitative study of future automation potential using machine learning approach
 - Technical approach: Used ONET data (9 variables) to train a Gaussian Process classifier on 70 hand-labeled occupations, then predicted automation probability for all 702 occupations
 - Engineering bottlenecks: Identified specific technical barriers to automation through task-based analysis
@@ -75,11 +48,13 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 - Two-Wave Model: First wave targets routine tasks, second wave depends on perception/manipulation breakthroughs
 - Business Operation Framework: Analyzes employment, competition, customer, and revenue/cost effects
 
-[5_conclusions/]:
+### [5_conclusions/]: Rapid automation is accelerating beyond manufacturing into services, with 47% of US jobs at risk, requiring major workforce adaptation and likely exacerbating inequality
 - Speed of Progress: 47% of US jobs at risk, with rapid growth in service/industrial robots (20% annual growth, 166k units sold in 2011) and Chinese market (>50% growth in 2011)
 - Business/Competition Effects: Businesses gain cost reductions and productivity through robot adoption, following a two-wave automation model (routine tasks then perception tasks) enabled by task restructuring
 - Employment/Market Effects: Low-skill jobs face highest automation risk, requiring workers to develop creative/social skills while education provides some protection against displacement
 - Key Technical Insights: Engineering bottlenecks exist in perception/creativity/social intelligence, while algorithms and robots rapidly expand into information processing, manufacturing, and service domains
+
+# -------------------- IN DETAIL ------------------
 
 ### [2_automatable/] What is currently automatable?
 
