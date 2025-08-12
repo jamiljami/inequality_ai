@@ -78,6 +78,12 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
 
 > "For workers to win the race, however, they will have to acquire creative and social skills." (p. 44)
 
+- **Machine Learning Classification Framework**: Uses Gaussian Process classifier trained on 70 hand-labeled occupations to predict automation probabilities
+
+> "We tested three Gaussian process classifiers using the GPML toolbox (Rasmussen and Nickisch, 2010) on our data, built around exponentiated quadratic, rational quadratic and linear covariances." (p. 33)
+
+> "The exponentiated quadratic model returns (narrowly) the best performance of the three (clearly outperforming the linear model corresponding to logistic regression), and was hence selected for the remainder of our testing." (p. 33)
+
 - **Probability-Based Measurement**: Uses machine learning to assign automation probabilities rather than binary yes/no predictions
 
 > "We make no attempt to estimate how many jobs will actually be automated. The actual extent and pace of computerisation will depend on several additional factors which were left unaccounted for." (p. 41)
@@ -96,29 +102,17 @@ addressed.
 
 > "Employment data is taken from the Bureau of Labor Statistics (BLS) 2010 Current Population Survey." (p. 4)
 
-- **Machine Learning Classification System**: Develops novel quantitative framework using Gaussian Process classifier
+- **Machine Learning Training Process**: Trained using Gaussian Process classifier using 9 key O*NET variables on 70 hand-labeled occupations, then applied to all 702 occupations
 
-> "We implement a novel methodology to estimate the probability of computerisation for 702 detailed occupations, using a Gaussian process classifier." (p. 1)
+> "Together with a group of ML researchers, we subjectively hand-labelled 70 occupations, assigning 1 if automatable, and 0 if not." (p. 30)
+
+> "As reported in Table I, we identified nine variables that describe these attributes. These variables were derived from the O*NET survey, where the respondents are given multiple scales, with "importance" and "level" as the predominant pair." (p. 30)
+
+> "Having validated our approach, we proceed to use classification to predict the probability of computerisation for all 702 occupations." (p. 34)
 
 - **Wage and Education Metrics**: Incorporates economic inequality measures directly into analysis
 
 > "Finally, we provide evidence that wages and educational attainment exhibit a strong negative relationship with the probability of computerisation." (p. 41)
-
-**Technical Implementations:**
-The study uses machine learning techniques:
-- Used ONET data (9 key variables) to train a classifier on 70 
-hand-labeled occupations
-- Applied Gaussian Process classifier to predict automation probability 
-for all 702 occupations
-- Combined with employment data from Bureau of Labor Statistics
-- Integrated wage and educational attainment data for comprehensive 
-analysis
-
-Metrics used:
-- ONET occupational variables (9 key variables)
-- Employment data from Bureau of Labor Statistics
-- Wage and educational attainment data
-- Probability scores for automation risk
 
 ### B. Economic Questions
 

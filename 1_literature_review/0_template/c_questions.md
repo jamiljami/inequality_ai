@@ -18,7 +18,7 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
     - Pros:
         - Pro: details
     - Cons:
-        - Con: details
+        - Con: details and limitations
 
 ## Paper Limitations:
 - [LIMITATION 1]
@@ -40,8 +40,6 @@ Where a_summary.md ascertains the nature of the paper and does not use 1_scope.m
         - [WHY IT'S NOT ADDRESSED]
 
 # -------------------- IN DETAIL ------------------
-
-## -------------------- Research Questions ------------------
 
 ### A. Methodological Questions
 
